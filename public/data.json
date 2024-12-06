@@ -4,44 +4,49 @@
         "cover": "https://i.ibb.co.com/NC79L7w/yihan-wang-4teb0ry-KW3-M-unsplash.jpg",
         "cover_title": "Exploring the Wonders of Space",
         "author": "Jane Doe",
-        "author_image": "https://example.com/images/author1.jpg",
+        "author_image": "https://i.ibb.co.com/Wxrx49X/boy2.jpg",
         "posted_date": "2024-11-25",
-        "hash_code": "a1b2c3d4e5f6"
+        "hash_code": "a1b2c3d4e5f6",
+        "reading_time": "6 min read"
     },
     {
         "id": 2,
         "cover": "https://i.ibb.co.com/qk7b311/georgia-de-lotz-49w9ogvp5-4-unsplash.jpg",
         "cover_title": "The Art of Minimalism",
         "author": "John Smith",
-        "author_image": "https://example.com/images/author2.jpg",
+        "author_image": "https://i.ibb.co.com/PCcmF2w/boy1.png",
         "posted_date": "2024-11-26",
-        "hash_code": "f7g8h9i0j1k2"
+        "hash_code": "f7g8h9i0j1k2",
+        "reading_time": "5 min read"
     },
     {
         "id": 3,
         "cover": "https://i.ibb.co.com/8dngndB/edwin-andrade-4-V1d-C-eo-Cwg-unsplash.jpghttps://i.ibb.co.com/8zSDpqC/stem-list-EVgs-Ab-L51-Rk-unsplash.jpg",
         "cover_title": "Tech Innovations in 2024",
         "author": "Emily Clark",
-        "author_image": "https://example.com/images/author3.jpg",
+        "author_image": "https://i.ibb.co.com/4tbw5Z1/girl1.jpg",
         "posted_date": "2024-11-27",
-        "hash_code": "m3n4o5p6q7r8"
+        "hash_code": "g1h2i3j4k5l6",
+        "reading_time": "8 min read"
     },
     {
         "id": 4,
-        "cover": "https://i.ibb.co.com/NC79L7w/yihan-wang-4teb0ry-KW3-M-unsplash.jpg",
+        "cover": "https://i.ibb.co.com/F68rjXp/3.png",
         "cover_title": "Mastering the Art of Cooking",
         "author": "Robert Brown",
-        "author_image": "https://example.com/images/author4.jpg",
+        "author_image": "https://i.ibb.co.com/4tbw5Z1/girl1.jpg",
         "posted_date": "2024-11-28",
-        "hash_code": "s9t0u1v2w3x4"
+        "hash_code": "m7n8o9p0q1r2",
+        "reading_time": "10 min read"
     },
     {
         "id": 5,
-        "cover": "https://i.ibb.co.com/NC79L7w/yihan-wang-4teb0ry-KW3-M-unsplash.jpg",
+        "cover": "https://i.ibb.co.com/WpP9MRk/4.jpg",
         "cover_title": "Travel Diaries: Hidden Gems",
         "author": "Sophia Wilson",
-        "author_image": "https://example.com/images/author5.jpg",
+        "author_image": "https://i.ibb.co.com/7KPNBVh/girl2.jpg",
         "posted_date": "2024-11-29",
-        "hash_code": "y5z6a7b8c9d0"
+        "hash_code": "s3t4u5v6w7x8",
+        "reading_time": "7 min read"
     }
 ]
