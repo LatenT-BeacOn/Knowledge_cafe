@@ -17,7 +17,7 @@ const Blog = ({blog,handleBookMarks}) => {
                 </div>
                 <div className='flex gap-2'>
                     <p>{reading_time}</p>
-                     <button onClick={handleBookMarks}><BsBookmarks></BsBookmarks></button>
+                     <button onClick={()=>handleBookMarks(blog)}><BsBookmarks></BsBookmarks></button>
                 </div>
             </div>
             
@@ -29,7 +29,8 @@ const Blog = ({blog,handleBookMarks}) => {
 };
 
 Blog.propTypes={
-    blog: PropTypes.object.isRequired
+    blog: PropTypes.object.isRequired,
+   handleBookMarks: PropTypes.func
 }
 
 export default Blog;
