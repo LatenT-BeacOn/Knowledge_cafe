@@ -23,7 +23,7 @@ const Blog = ({blog,handleBookMarks,markAsRead}) => {
             
             <h1 className='text-4xl'>{cover_title}</h1>
             <p><a href="">#{hash_code}</a></p>
-            <button onClick={()=>markAsRead(reading_time)} className='text-fuchsia-800 bold underline'>Mark as read</button>
+            <button onClick={()=>markAsRead(id,reading_time)} className='text-fuchsia-800 bold underline'>Mark as read</button>
 
            
         </div>
